@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
         android:text="@string/welcome_to_whatsapp"
-        android:textColor="@color/purple_700"
+        android:textColor="#20c459"
         android:textSize="28sp"
         android:textStyle="bold" />
 
@@ -87,6 +87,7 @@
         android:paddingEnd="20dp"
         android:paddingBottom="10dp"
         android:text="next"
+        android:backgroundTint="#02FF4E"
         android:textAllCaps="true"
         android:textColor="#fff"
         android:textSize="18sp"

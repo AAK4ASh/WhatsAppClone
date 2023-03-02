@@ -76,7 +76,8 @@
         android:padding="15dp"
         android:text="Verify Now"
         android:textAllCaps="true"
-        android:textColor="#20c459"
+        android:textColor="@color/white"
+        android:backgroundTint="#02FF4E"
         android:textSize="16sp"
         app:cornerRadius="5dp" />
 
@@ -89,6 +90,7 @@
         android:gravity="center"
         android:padding="15dp"
         android:text="Resend SMS"
+        android:backgroundTint="#02FF4E"
         android:textColor="#fff"
         android:textSize="16sp"
         app:cornerRadius="5dp" />

@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
         android:text="Profile Info"
-        android:textColor="@color/purple_700"
+        android:textColor="#20c459"
         android:textSize="24sp"
         android:textStyle="bold" />
 
